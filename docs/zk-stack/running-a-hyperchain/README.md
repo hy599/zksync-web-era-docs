@@ -1,7 +1,7 @@
 ---
 head:
   - - meta
-    - name: "twitter:title"
+    - name: "Twitter: title"
       content: Run a Hyperchain | zkSync Docs
 ---
 
@@ -10,42 +10,42 @@ head:
 <section>
   <div class="card-container">
     <RouterLink
-      to="/zk-stack/running-a-hyperchain/locally"
+      to="/zk-stack/running-a-hyper chain/locally"
       class="card"
     >
       <img  
         src="/images/landing/run-a-hyperchain.png"
-        alt="Running a ZK Stack hyperchain locally on your own machine"
+        alt="Running a ZK Stack hyper chain locally on your machine"
       >
       <div class="content">
         <h3>Locally</h3>
-        <p>Running a hyperchain locally on your own machine.</p>
+        <p>Running a hyperchain locally on your machine.</p>
       </div>
     </RouterLink>
     <RouterLink
-      to="/zk-stack/running-a-hyperchain/production"
+      to="/zk-stack/running-a-hyper chain/production"
       class="card"
     >
       <img  
         src="/images/landing/run-a-hyperchain.png"
-        alt="Deploying a ZK Stack hyperchain to a non-local environment"
+        alt="Deploying a ZK Stack hyper chain to a non-local environment"
       >
       <div class="content">
         <h3>In Production</h3>
-        <p>Deploying a hyperchain to a non-local environment.</p>
+        <p>Deploying a hyper chain to a non-local environment.</p>
       </div>
     </RouterLink>
     <RouterLink
-      to="/zk-stack/running-a-hyperchain/raas"
+      to="/zk-stack/running-a-hyper chain/raas"
       class="card"
     >
       <img
         src="/images/landing/run-a-hyperchain.png" 
-        alt="Deploying and running a ZK Stack hyperchain via RaaS (Rollup as a Service)"
+        alt="Deploying and running a ZK Stack hyper chain via RaaS (Rollup as a Service)"
       />
       <div class="content">
         <h3>Rollup as a Service</h3>
-        <p>Running and deploying a hyperchain using a RaaS provider.</p>
+        <p>Running and deploying a hyper chain using a RaaS provider.</p>
       </div>
     </RouterLink>
   </div>
